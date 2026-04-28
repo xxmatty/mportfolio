@@ -1,1 +1,12 @@
 index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Moje portfolio</title>
+</head>
+<body>
+  <h1>Ahoj, já jsem Václav 👋</h1>
+  <p>Tohle je moje portfolio.</p>
+</body>
+</html>
